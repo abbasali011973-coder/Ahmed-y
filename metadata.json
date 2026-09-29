@@ -1,0 +1,6 @@
+{
+  "name": "BrainyBee — Bangladesh's AI Teacher for Class 6–12",
+  "description": "BrainyBee is Bangladesh's AI teacher for Class 6–12: teacher-style explanations, smart hand notes, laws & formulas library, and mock tests in Bangla and English. Founded by ABD RASHID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
